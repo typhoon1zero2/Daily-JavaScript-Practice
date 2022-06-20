@@ -2,6 +2,6 @@
 
 ## This is my Daily JavaScript projects
 
-- Color flipper practice :smile: [here](https://iridescent-meerkat-587c72.netlify.app/)
-- Counter
+- Color flipper :smile: [click here](https://iridescent-meerkat-587c72.netlify.app/)
+- Counter :smile: [click here](https://mellow-choux-fcfe7e.netlify.app/)
 
