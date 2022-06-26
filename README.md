@@ -7,4 +7,5 @@
 - Review  :smile: [click here](https://lucky-palmier-80b11a.netlify.app/)
 - Navbar :smile: [click here](https://jazzy-tanuki-a70f75.netlify.app/)
 - Sidebar :smile: [click here](https://mellifluous-llama-705ca9.netlify.app/)
+- Modal :smile: [click here](https://iridescent-cannoli-26efeb.netlify.app/)
 
