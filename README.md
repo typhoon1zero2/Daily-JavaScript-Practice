@@ -8,4 +8,4 @@
 - Navbar :smile: [click here](https://jazzy-tanuki-a70f75.netlify.app/)
 - Sidebar :smile: [click here](https://mellifluous-llama-705ca9.netlify.app/)
 - Modal :smile: [click here](https://iridescent-cannoli-26efeb.netlify.app/)
-
+- General Q & A :smile: [click here](https://shiny-beijinho-c2700e.netlify.app/)
