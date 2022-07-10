@@ -14,7 +14,7 @@
 - Scroll :smile: [click here](https://aesthetic-frangollo-e2c224.netlify.app/)
 - Tab :smile: [click here](https://funny-lily-c0600e.netlify.app/)
 - Count-Down timer :smile: [click here](https://statuesque-monstera-5e911f.netlify.app/)
-- Lorem :smile: [click here](https://statuesque-monstera-5e911f.netlify.app/)
+- Lorem :smile: [click here](https://timely-griffin-b458e6.netlify.app/)
 
 
 
