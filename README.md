@@ -15,6 +15,7 @@
 - Tab :smile: [click here](https://funny-lily-c0600e.netlify.app/)
 - Count-Down timer :smile: [click here](https://statuesque-monstera-5e911f.netlify.app/)
 - Lorem :smile: [click here](https://timely-griffin-b458e6.netlify.app/)
+- Grocery Buddy :smile: [click here](https://radiant-dieffenbachia-2dab17.netlify.app/)
 
 
 
