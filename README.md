@@ -17,6 +17,8 @@
 - Lorem :smile: [click here](https://timely-griffin-b458e6.netlify.app/)
 - Grocery Buddy :smile: [click here](https://radiant-dieffenbachia-2dab17.netlify.app/)
 - Slider :smile: [click here](https://neon-eclair-fc3eb1.netlify.app/)
+- Counter OOP :smile: [click here](https://shiny-dango-3ff32e.netlify.app/)
+
 
 
 
