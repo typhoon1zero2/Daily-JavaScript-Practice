@@ -150,3 +150,18 @@ main {
   display: grid;
   place-items: center;
 }
+/*
+=============== 
+Counter
+===============
+*/
+
+.container {
+    text-align: center;
+    margin: 3rem auto;
+    background: var(--clr-white);
+    border-radius: var(--radius);
+    width: 90vw;
+    max-width: var(--fixed-width);
+    padding: 2rem;
+  }
